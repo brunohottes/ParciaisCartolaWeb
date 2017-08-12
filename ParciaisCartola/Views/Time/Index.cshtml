@@ -1,0 +1,34 @@
+﻿<div class="col-md-offset-1 col-md-10 col-md-offset-1" >
+    <input type="text" class="form-control input-lg busca" placeholder="Nome do Time" />
+</div>
+
+<div class="row">
+    <div class="col-md-offset-1 col-md-10 col-md-offset-1 lista-time">      
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>TIME</th>
+                    <th>PATRIMÔNIO</th>
+                    <th>PONTUAÇÃO</th>
+                    <th></th>
+                </tr>
+            </thead>
+            
+            <tbody>
+                  @foreach (var times in Model)
+                  {
+                      <tr>
+                              <td class="col-md-5 item-list">
+                                  <img class="imgEscudo" src="@times.time.url_escudo_png" />
+                                  <h3>@times.nome</h3>
+                                  <span>@times.nome_cartola</span>
+                              </td>
+                              <td class="col-md-2"><h3>C$ @times.patrimonio</h3></td>
+                              <td class="col-md-2"><h3>@times.pontos</h3></td>
+                              <td class="col-md-1"><input type="button" class="btn btn-success btn-lg btn-time" value="Entrar" /></td>
+                      </tr>
+                  }
+            </tbody>
+        </table>
+      </div>
+</div>

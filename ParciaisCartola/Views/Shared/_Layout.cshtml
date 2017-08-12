@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/Content/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/Content/css/Style.css" />
+    <title>Parcias Cartola - Acompanhe suas parciais.</title>
+</head>
+<body>
+     <div class="container">
+             <div class="header">
+                <div class="row">
+                     <div class="col-md-offset-1 col-md-10 logo">
+                         <img src="~/Content/img/LogoParciaisCartola.png"
+                              class="img-responsive" alt="ParciaisCartola" />
+                     </div>
+                </div>
+             </div>
+
+             <div class="conteudo">
+                 <div class="row">
+                     @RenderBody()
+                 </div>
+              </div>
+      </div>
+    <footer>
+           <div class="col-md-offset-2 col-md-8 col-md-offset-2 rodape" >
+               <p class="text-right">Bruno Viana © Copyright 2017 </p>
+            </div>
+    </footer>
+</body>
+</html>

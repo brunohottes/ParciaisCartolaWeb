@@ -1,0 +1,96 @@
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csc.exe
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csc.exe.config
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csc.rsp
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csi.exe
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csi.rsp
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.AppContext.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.IO.FileSystem.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\vbc.exe
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\vbc.exe.config
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\vbc.rsp
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\VBCSCompiler.exe
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\ParciaisCartola.dll.config
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\ParciaisCartola.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\ParciaisCartola.pdb
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Helpers.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Mvc.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Razor.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Deployment.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Razor.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Razor.xml
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.xml
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Deployment.xml
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Razor.xml
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Helpers.xml
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Mvc.xml
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\obj\Debug\ParciaisCartola.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\obj\Debug\ParciaisCartola.dll
+c:\users\bruno\documents\visual studio 2017\Projects\ParciaisCartola\ParciaisCartola\obj\Debug\ParciaisCartola.pdb
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\obj\Debug\ParciaisCartola.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csc.exe
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csc.exe.config
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csc.rsp
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csi.exe
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\csi.rsp
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.AppContext.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\vbc.exe
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\vbc.exe.config
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\vbc.rsp
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\ParciaisCartola.dll.config
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\ParciaisCartola.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\ParciaisCartola.pdb
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Newtonsoft.Json.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Helpers.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Mvc.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Razor.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\Newtonsoft.Json.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Razor.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Helpers.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\bin\System.Web.Mvc.xml
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\obj\Debug\ParciaisCartola.dll
+C:\Users\Bruno Viana\Documents\Visual Studio 2017\Projects\ParciaisCartola\ParciaisCartola\obj\Debug\ParciaisCartola.pdb
